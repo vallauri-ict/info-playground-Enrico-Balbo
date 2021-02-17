@@ -1,0 +1,10 @@
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\bin\Debug\04-TriggerAssieme.exe.config
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\bin\Debug\04-TriggerAssieme.exe
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\bin\Debug\04-TriggerAssieme.pdb
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.csprojAssemblyReference.cache
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\_04_TriggerAssieme.Form1.resources
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\_04_TriggerAssieme.Properties.Resources.resources
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.csproj.GenerateResource.cache
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.csproj.CoreCompileInputs.cache
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.exe
+C:\Users\enric\OneDrive\Desktop\04-TriggerAssieme\04-TriggerAssieme\obj\Debug\04-TriggerAssieme.pdb
